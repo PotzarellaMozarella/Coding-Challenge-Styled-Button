@@ -6,7 +6,7 @@ You can check it out on this link: [Solution](https://jade-monstera-6b19e3.netli
 
 ## Project Overview
 
-![Screenshot](public/Jammming.png)
+![Screenshot](Solution.png)
 
 The StyledButton project focuses on designing and implementing a custom button based on a provided PNG image. By utilizing HTML and CSS, we've achieved a visually appealing and interactive button that enhances the user experience. The button's design closely follows the provided image brief, ensuring a cohesive and professional appearance.
 
